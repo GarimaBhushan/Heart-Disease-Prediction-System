@@ -1,0 +1,1 @@
+The Heart Disease Prediction project aims to create a machine learning model that predicts whether an individual is at risk of heart disease. The model is built using the Logistic Regression algorithm, which is well-suited for binary classification problems like this, where the outcome is either "heart disease" or "no heart disease."
